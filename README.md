@@ -2,7 +2,7 @@
 Interface that imitates keypad that of Old Phones with number and keys.
 
 
-
+**Clone the Repo and inside the project folder**
 ```
 npm install or yarn install
 ```
